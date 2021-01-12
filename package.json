@@ -1,0 +1,19 @@
+{
+  "name": "fresh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel serve index.html --open"
+  },
+  "dependencies": {
+    "@babel/preset-env": "7.12.11",
+    "@fortawesome/fontawesome-free": "5.15.1"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1",
+    "sass": "1.32.4"
+  },
+  "keywords": []
+}

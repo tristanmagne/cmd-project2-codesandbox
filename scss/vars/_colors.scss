@@ -1,0 +1,16 @@
+/* sass variables */
+$primary-color: #FA402F;
+$primary-color-text: #fff;
+
+$secondary-color: yellow;
+$secondary-color-text: #363636;
+
+
+/* css variables */
+:root {
+  --primary-color: #{$primary-color};
+  --primary-color-text: #{$primary-color-text};
+
+  --secondary-color: #{$secondary-color};
+  --secondary-color-text: #{$secondary-color-text};
+}
